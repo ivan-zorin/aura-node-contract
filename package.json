@@ -13,13 +13,13 @@
   },
   "keywords": [],
   "author": "Ivan Zorin <creator@localzet.com>",
-  "homepage": "https://github.com/localzet/aura-node",
+  "homepage": "https://github.com/localzet/aura-node-contract",
   "repository": {
     "type": "git",
-    "url": "https://github.com/localzet/aura-node"
+    "url": "https://github.com/localzet/aura-node-contract"
   },
   "bugs": {
-    "url": "https://github.com/localzet/aura-node/issues"
+    "url": "https://github.com/localzet/aura-node-contract/issues"
   },
   "license": "AGPL-3.0-only",
   "dependencies": {
